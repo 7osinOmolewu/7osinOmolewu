@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7osinOmolewu
 - 👀 I’m interested in Books, Movies, Travel, Recipes, Social Impact, Food! 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning a language (Spanish)
 - 💞️ I’m looking to collaborate on CoPilot integration and use on Github
 - 📫 How to reach me - slack me if you can!
 - 😄 Pronouns: she/her/hers
